@@ -19,4 +19,4 @@ Nuestra comunidad se esfuerza por ser inclusiva, acogedora y segura para todas l
 **Consecuencias por incumplimiento:** Si se detecta un incumplimiento de este código de conducta, los administradores de la comunidad podrán tomar medidas apropiadas, incluyendo advertencias, expulsión temporal o permanente de la comunidad.
 
 
-Cualquier duda en particular contáctanos en hola@liderly.com
+Cualquier duda en particular contáctanos en ayuda@liderly.com
